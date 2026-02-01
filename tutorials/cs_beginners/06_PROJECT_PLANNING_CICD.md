@@ -1,7 +1,7 @@
-# Tutorial 10: Project Planning and CI/CD for C#
+# Tutorial 06: Project Planning and CI/CD for C#
 
 **Duration:** 120 minutes (40 min reading + 80 min hands-on)
-**Prerequisites:** Tutorial 09 completed
+**Prerequisites:** Tutorial 05 completed
 **Goal:** Set up professional workflows for LEAN C# development
 
 ---
@@ -625,7 +625,7 @@ Apache 2.0
 
 ## 🎓 Final Checklist
 
-- [ ] All 10 tutorials marked complete in README.md
+- [ ] All 6 tutorials marked complete in README.md
 - [ ] Practice exercises completed
 - [ ] GitHub Actions workflow set up
 - [ ] First benchmark written and run

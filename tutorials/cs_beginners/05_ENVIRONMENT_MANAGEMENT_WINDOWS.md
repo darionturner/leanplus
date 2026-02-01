@@ -530,15 +530,15 @@ dotnet restore                        # Restore packages
 
 ---
 
-## ⏭️ Next Tutorial
+## Next Tutorial
 
-**Tutorial 06: C# Setup on WSL for Claude**
-- Install .NET SDK on WSL
-- Build LEAN in Linux environment
-- Enable Claude Code automation
-- Path translation strategies
+**Tutorial 06: Project Planning and CI/CD for C#**
+- Architecture planning for C# components
+- Automated testing with xUnit
+- GitHub Actions for LEAN
+- Deployment strategies
 
-**Time to Complete:** 90 minutes
+**Time to Complete:** 2 hours
 
 ---
 
