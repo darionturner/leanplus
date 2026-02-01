@@ -532,11 +532,11 @@ dotnet restore                        # Restore packages
 
 ## Next Tutorial
 
-**Tutorial 06: Project Planning and CI/CD for C#**
-- Architecture planning for C# components
-- Automated testing with xUnit
-- GitHub Actions for LEAN
-- Deployment strategies
+**Tutorial 06: C# Syntax and Practice**
+- LINQ deep dive
+- Async/await patterns in LEAN
+- Properties and expression bodies
+- Pattern matching and extension methods
 
 **Time to Complete:** 2 hours
 

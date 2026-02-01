@@ -3,7 +3,7 @@
 **Target Audience:** Python developers learning C# for LEAN engine development
 **Project Context:** European intraday energy trading system
 **Learning Approach:** Hands-on tutorials with LEAN-specific examples
-**Estimated Time:** 8-10 hours total (self-paced)
+**Estimated Time:** 10-12 hours total (self-paced)
 
 ---
 
@@ -13,7 +13,7 @@ This guide takes you from C# beginner to proficient LEAN developer, with focus o
 - Understanding C# fundamentals through LEAN examples
 - Setting up efficient debugging workflows
 - Environment and dependency management
-- Professional development workflows
+- C# syntax mastery and professional workflows
 
 ---
 
@@ -53,9 +53,16 @@ This guide takes you from C# beginner to proficient LEAN developer, with focus o
   - Solution and project file management
   - Dependency resolution
 
-### Professional Workflows (2 hours)
+### Syntax and Professional Workflows (4 hours)
 
-- [ ] **Tutorial 06: Project Planning and CI/CD for C#** (~2 hours)
+- [ ] **Tutorial 06: C# Syntax and Practice** (~2 hours)
+  - LINQ deep dive
+  - Async/await patterns in LEAN
+  - Properties and expression bodies
+  - Pattern matching and extension methods
+  - Practice exercises with LEAN code
+
+- [ ] **Tutorial 07: Project Planning and CI/CD for C#** (~2 hours)
   - Architecture planning for C# components
   - Automated testing with xUnit
   - GitHub Actions for LEAN
@@ -72,6 +79,7 @@ By completing this series, you will be able to:
 - Debug C# code in multiple IDEs (Rider, VS Code, Visual Studio)
 - Write new C# components for LEAN (security types, data handlers)
 - Manage .NET environments and dependencies
+- Apply modern C# syntax patterns
 - Set up CI/CD pipelines for LEAN extensions
 
 ---
@@ -99,8 +107,9 @@ By completing this series, you will be able to:
 | 03 - JetBrains Debugging | 20 min | 70 min | 90 min |
 | 04 - VS Code Debugging | 15 min | 45 min | 60 min |
 | 05 - Environment Management | 20 min | 25 min | 45 min |
-| 06 - CI/CD & Planning | 40 min | 80 min | 120 min |
-| **TOTAL** | **2.3 hrs** | **5.2 hrs** | **7.5 hrs** |
+| 06 - Syntax & Practice | 40 min | 80 min | 120 min |
+| 07 - CI/CD & Planning | 40 min | 80 min | 120 min |
+| **TOTAL** | **3 hrs** | **6.5 hrs** | **9.5 hrs** |
 
 ---
 
