@@ -1,0 +1,13 @@
+name: lean_py311
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - pip:
+    - pydevd-pycharm  # PyCharm remote debugging
