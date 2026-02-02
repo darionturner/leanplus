@@ -2,8 +2,7 @@ name: Regression Tests
 
 on:
   push:
-    branches: ['*']
-    tags: ['*']
+    branches: ['upstream-sync']
   pull_request:
     branches: [master]
 
